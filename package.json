@@ -1,11 +1,8 @@
 {
 	"name": "fmentor-nft-plain",
+	"private": true,
 	"version": "1.0.0",
-	"description": "nft preview card component using plain mode",
-	"main": "index.js",
-	"scripts": {
-		"lint": "prettier --write ."
-	},
+	"type": "module",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/al3xback/fmentor-nft-plain.git"
@@ -15,8 +12,5 @@
 	"bugs": {
 		"url": "https://github.com/al3xback/fmentor-nft-plain/issues"
 	},
-	"homepage": "https://github.com/al3xback/fmentor-nft-plain#readme",
-	"devDependencies": {
-		"prettier": "^2.8.8"
-	}
+	"homepage": "https://github.com/al3xback/fmentor-nft-plain#readme"
 }
